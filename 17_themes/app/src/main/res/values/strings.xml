@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">17_themes</string>
+    <string name="hello_dhanajit">Hello Dhanajit</string>
+    <string name="enter_here_first">Enter Here First</string>
+    <string name="enter_here_second">Enter Here Second</string>
+    <string name="click_here">click here</string>
+    <string name="button">Button</string>
+</resources>

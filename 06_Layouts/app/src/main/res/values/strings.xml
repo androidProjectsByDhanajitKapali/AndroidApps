@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="button">Button</string>
+    <string name="textview">Harry</string>
+    <string name="name">Harry</string>
+    <string name="top">start</string>
+    <string name="mid">pause</string>
+    <string name="bottom">stop</string>
+
+</resources>
